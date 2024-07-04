@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Importing Bootstrap SCSS file. */
+@import 'bootstrap/scss/bootstrap';
+
+body {
+    height: 100vh;
+    align-items: center;
+    display: grid;
+}
+img {
+    max-width: 600px;
+    width: -webkit-fill-available;
+}
+
+#login-container {
+    border-radius: 15px;
+    padding: 10px;
+    height: 100%;
+
+    font-family: Cabin;
+    color: white;
+}
+
+#login-contour {
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.teste{
+    border: 2px solid #7702bd;
+}
