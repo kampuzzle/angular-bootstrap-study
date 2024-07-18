@@ -14,19 +14,16 @@ img {
 }
 
 #login-container {
-    border-radius: 15px;
-    padding: 10px;
     height: 100%;
 
     font-family: Cabin;
     color: white;
 }
 
-#login-contour {
-    border-radius: 20px;
-    padding: 10px;
-}
-
 .teste{
     border: 2px solid #7702bd;
+}
+
+.cursor-pointer {
+    cursor: pointer;
 }
